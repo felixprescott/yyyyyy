@@ -1,0 +1,11 @@
+{
+  "name": "get-project-structure",
+  "version": "1.0.0",
+  "description": "Выводит структуру каталогов, исключая специфические папки.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Felix Prescott",
+  "license": "MIT"
+}
